@@ -1,0 +1,4 @@
+[Faster Apothecary Confirmations v1.0.0]
+04000000 00368630 528000A3
+04000000 003688EC 320003E0
+
