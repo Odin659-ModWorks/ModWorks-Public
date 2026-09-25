@@ -1,0 +1,67 @@
+name: Bug report
+description: Tell us about a problem with a ModWorks mod or the mod manager.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. Please [search existing reports](https://github.com/Odin659-ModWorks/ModWorks-Public/issues) first. Do not upload game files, keys, saves, or personal information. Screenshots and short logs are welcome if they are safe to share.
+  - type: dropdown
+    id: game
+    attributes:
+      label: Game
+      options:
+        - Xenoblade Chronicles 2
+        - Another game
+    validations:
+      required: true
+  - type: input
+    id: other-game
+    attributes:
+      label: If another game, which one?
+      placeholder: Game title
+  - type: dropdown
+    id: emulator
+    attributes:
+      label: Emulator or platform
+      options:
+        - Eden
+        - Another Switch emulator
+        - Console hardware
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game update and emulator version
+      description: Include both if you know them.
+      placeholder: "Example: XC2 2.1.0, Eden version ..."
+  - type: input
+    id: mod
+    attributes:
+      label: Mod or manager feature
+      description: Which download or setting is involved?
+      placeholder: "Example: pickup range, shop quantity, Pyra outfit"
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: What did you expect, and what actually happened?
+      placeholder: "I expected ... but instead ..."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can we reproduce it?
+      description: A few steps help us test the same situation. You can also attach a screenshot here.
+      placeholder: |
+        1. Enable ...
+        2. Go to ...
+        3. Observe ...
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Mention other active mods or relevant settings if they may affect the result. Do not paste private paths, keys, saves, or copyrighted game files.
