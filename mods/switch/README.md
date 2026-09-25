@@ -1,8 +1,9 @@
-# Nintendo Switch mods
+<h1 align="center">Nintendo Switch mods</h1>
 
-Choose how you want to browse:
+<p align="center">Choose an emulator to see every supported game.</p>
 
-- **By emulator:** [Eden — all supported games](eden/README.md)
-- By game: [Xenoblade Chronicles 2](xenoblade-chronicles-2/README.md)
+<h2 align="center"><a href="eden/README.md">Eden — browse games</a></h2>
 
-The emulator page lists each available game and links to its individual mods and mod manager. Each game page carries exact update compatibility notes. Other emulators will get their own pages when compatible mods are prepared.
+<p align="center">Or browse by title: <a href="xenoblade-chronicles-2/README.md">Xenoblade Chronicles 2</a>.</p>
+
+<p align="center">Other emulators will get separate pages when compatible mods are prepared.</p>
