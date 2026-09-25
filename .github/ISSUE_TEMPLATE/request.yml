@@ -1,0 +1,53 @@
+name: Mod or game request
+description: Suggest a mod feature or a game for future support.
+title: "[Request] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggestions are welcome, but a request is **not a guarantee** that ModWorks will build or support it. Please [search existing requests](https://github.com/Odin659-ModWorks/ModWorks-Public/issues) before posting.
+  - type: dropdown
+    id: request-kind
+    attributes:
+      label: What are you requesting?
+      options:
+        - A mod or feature for a game
+        - Support for a game
+        - A mod manager improvement
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Nintendo Switch
+        - Another platform
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game title
+      description: Name the game if your request concerns one.
+      placeholder: "Example: Xenoblade Chronicles 2"
+  - type: input
+    id: emulator
+    attributes:
+      label: Emulator and game update, if relevant
+      placeholder: "Example: Eden, game update 2.1.0"
+  - type: textarea
+    id: request
+    attributes:
+      label: What would you like?
+      description: Describe the result you want rather than only a possible technical method.
+      placeholder: "I would like ..."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Why would this help?
+      description: Optional context, screenshots, or links to similar work.
