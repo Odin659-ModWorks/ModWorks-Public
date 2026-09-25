@@ -1,8 +1,9 @@
-<h1 align="center">ModWorks</h1>
+<h1 align="center">Odin659's ModWorks</h1>
+<p align="center">ModWorks is free to use. <a href="DONATE.md">Donations</a> help support development and testing.</p>
 
 <p align="center">Game mods and tools, organized by platform → emulator → game → update.</p>
 
-<h2 align="center">Browse mods</h2>
+<h2 align="center">Browse avalible mods</h2>
 
 <details open>
 <summary align="center"><strong>Nintendo Switch</strong></summary>
@@ -26,8 +27,9 @@
 
 <h2 align="center">About the downloads</h2>
 
-**Individual mods** offer fixed settings. **Mod managers** will provide custom values and compatible combinations where available; the XC2 manager is still in development. Every page identifies the tested game update, emulator, and executable build when relevant.
+<p align="center">**Individual mods** offer fixed settings.
+  <p align="center">**Mod managers** will provide custom values and compatible combinations where available. Every page identifies the tested game update, emulator, and executable build when relevant.
 
-No game dumps, extracted assets, saves, or full game data files are distributed here. A patch builder may require files from your own lawful copy of the game.
+<p align="center">No game dumps, extracted assets, saves, or full game data files are distributed here. A patch builder may require files from your own lawful copy of the game.
 
-<p align="center">ModWorks is free to use. <a href="DONATE.md">Voluntary donations</a> help support development and testing.</p>
+<p align="center">ModWorks is free to use. <a href="DONATE.md">Donations</a> help support development and testing.</p>
