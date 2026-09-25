@@ -1,36 +1,35 @@
-# ModWorks
+<h1 align="center">ModWorks</h1>
 
-ModWorks is a home for game mods and tools across platforms. Pick your platform and emulator below, then choose a game. Finished downloads and release instructions live here; development work lives in a separate private repository.
+<p align="center">Game mods and tools, organized by platform → emulator → game → update.</p>
 
-## Browse mods
+<h2 align="center">Browse mods</h2>
 
 <details open>
-<summary><strong>Nintendo Switch</strong></summary>
+<summary align="center"><strong>Nintendo Switch</strong></summary>
 
-- **[Eden emulator](mods/switch/eden/README.md)** — see all supported games and, for each game, its individual mods and mod manager.
-- [Browse Switch games directly](mods/switch/README.md) if you prefer to start with a game title.
+<p align="center"><a href="mods/switch/eden/README.md"><strong>Eden emulator — view supported games</strong></a></p>
+<p align="center"><a href="mods/switch/README.md">Browse Switch games directly</a></p>
 
 </details>
 
-More platforms and emulators will appear here as their pages are added. Each game page identifies the tested game update; do not assume a mod works with a different update or emulator.
+<p align="center">More platforms and emulators will appear here as they are added.</p>
 
-## Quick links
+<h2 align="center">Current game</h2>
 
-| Go to | Link |
-| --- | --- |
-| Eden game list | [Browse Eden mods](mods/switch/eden/README.md) |
-| Xenoblade Chronicles 2 | [XC2 game page](mods/switch/xenoblade-chronicles-2/README.md) |
-| XC2 2.1.0 for Eden | [Compatibility and choices](mods/switch/xenoblade-chronicles-2/2.1.0/eden/README.md) |
-| Ready-made XC2 mods | [Individual mods](mods/switch/xenoblade-chronicles-2/2.1.0/eden/individual/README.md) |
-| Custom XC2 builds | [Mod manager](mods/switch/xenoblade-chronicles-2/2.1.0/eden/manager/README.md) |
-| Voluntary support | [Donations](DONATE.md) |
+<p align="center"><a href="mods/switch/xenoblade-chronicles-2/README.md"><strong>Xenoblade Chronicles 2</strong></a> · <a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/README.md">Update 2.1.0 for Eden</a></p>
+<p align="center"><a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/individual/README.md">Individual mods</a> · <a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/manager/README.md">Mod manager</a></p>
 
-## Choose how to use a mod
+<h2 align="center">Feedback and requests</h2>
 
-**Individual mods** are fixed settings with their own downloads and instructions. **The mod manager** is intended for people who want to choose values, combine compatible changes, and install the result. The manager is still in development, and there are no finished public XC2 packages in this repository yet.
+<p align="center"><a href="https://github.com/Odin659-ModWorks/ModWorks-Public/issues/new?template=bug-report.yml"><strong>Report a bug</strong></a> · <a href="https://github.com/Odin659-ModWorks/ModWorks-Public/issues/new?template=request.yml"><strong>Request a mod or game</strong></a> · <a href="https://github.com/Odin659-ModWorks/ModWorks-Public/issues">Browse existing reports</a></p>
+<p align="center">Requests are suggestions, not promises of future support.</p>
 
-The current XC2 work targets update **2.1.0** in Eden. No game dumps, extracted game assets, saves, or full game data files are distributed here. A patch builder may require files from your own lawful copy of the game.
+<h2 align="center">About the downloads</h2>
 
-ModWorks is free to use. [Voluntary donations](DONATE.md) help support development and testing.
+**Individual mods** will offer fixed settings. **The mod manager** is being developed for custom values and compatible combinations. There are no finished public XC2 packages here yet.
+
+Each mod page will identify the tested game update and emulator. No game dumps, extracted assets, saves, or full game data files are distributed here. A patch builder may require files from your own lawful copy of the game.
+
+<p align="center">ModWorks is free to use. <a href="DONATE.md">Voluntary donations</a> help support development and testing.</p>
 
 Search terms: Nintendo Switch mods, Eden emulator, Xenoblade Chronicles 2, XC2, game update 2.1.0, individual mods, mod manager.
