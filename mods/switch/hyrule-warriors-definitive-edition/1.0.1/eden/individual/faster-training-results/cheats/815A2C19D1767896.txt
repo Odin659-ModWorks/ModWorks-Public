@@ -1,0 +1,3 @@
+[HWDE Faster Training Results]
+04000000 00361798 528000A8
+
