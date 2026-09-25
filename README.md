@@ -14,10 +14,10 @@
 
 <p align="center">More platforms and emulators will appear here as they are added.</p>
 
-<h2 align="center">Current game</h2>
+<h2 align="center">Games for Eden</h2>
 
-<p align="center"><a href="mods/switch/xenoblade-chronicles-2/README.md"><strong>Xenoblade Chronicles 2</strong></a> · <a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/README.md">Update 2.1.0 for Eden</a></p>
-<p align="center"><a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/individual/README.md">Individual mods</a> · <a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/manager/README.md">Mod manager</a></p>
+<p align="center"><a href="mods/switch/hyrule-warriors-definitive-edition/README.md"><strong>Hyrule Warriors: Definitive Edition</strong></a> · <a href="mods/switch/hyrule-warriors-definitive-edition/1.0.1/eden/individual/README.md">1.0.1 individual mods</a></p>
+<p align="center"><a href="mods/switch/xenoblade-chronicles-2/README.md"><strong>Xenoblade Chronicles 2</strong></a> · <a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/README.md">2.1.0 in development</a></p>
 
 <h2 align="center">Feedback and requests</h2>
 
@@ -26,10 +26,10 @@
 
 <h2 align="center">About the downloads</h2>
 
-**Individual mods** will offer fixed settings. **The mod manager** is being developed for custom values and compatible combinations. There are no finished public XC2 packages here yet.
+**Individual mods** offer fixed settings. **Mod managers** will provide custom values and compatible combinations where available; the XC2 manager is still in development. Every page identifies the tested game update, emulator, and executable build when relevant.
 
-Each mod page will identify the tested game update and emulator. No game dumps, extracted assets, saves, or full game data files are distributed here. A patch builder may require files from your own lawful copy of the game.
+No game dumps, extracted assets, saves, or full game data files are distributed here. A patch builder may require files from your own lawful copy of the game.
 
 <p align="center">ModWorks is free to use. <a href="DONATE.md">Voluntary donations</a> help support development and testing.</p>
 
-Search terms: Nintendo Switch mods, Eden emulator, Xenoblade Chronicles 2, XC2, game update 2.1.0, individual mods, mod manager.
+Search terms: Nintendo Switch mods, Eden emulator, Hyrule Warriors Definitive Edition, Xenoblade Chronicles 2, XC2, individual mods, mod manager.
