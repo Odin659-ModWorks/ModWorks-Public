@@ -31,5 +31,3 @@
 No game dumps, extracted assets, saves, or full game data files are distributed here. A patch builder may require files from your own lawful copy of the game.
 
 <p align="center">ModWorks is free to use. <a href="DONATE.md">Voluntary donations</a> help support development and testing.</p>
-
-Search terms: Nintendo Switch mods, Eden emulator, Hyrule Warriors Definitive Edition, Xenoblade Chronicles 2, XC2, individual mods, mod manager.
