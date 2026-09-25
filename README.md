@@ -1,5 +1,6 @@
 <h1 align="center">Odin659's ModWorks</h1>
 <p align="center">ModWorks is free to use. <a href="DONATE.md">Donations</a> help support development and testing.</p>
+<p align="center">Modding for science!</p>
 
 <p align="center">Game mods and tools, organized by platform → emulator → game → update.</p>
 
