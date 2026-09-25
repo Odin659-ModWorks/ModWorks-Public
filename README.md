@@ -30,6 +30,6 @@
 <p align="center">**Individual mods** offer fixed settings.
   <p align="center">**Mod managers** will provide custom values and compatible combinations where available. Every page identifies the tested game update, emulator, and executable build when relevant.
 
-<p align="center">No game dumps, extracted assets, saves, or full game data files are distributed here. A patch builder may require files from your own legitimate copy of the game.
+<p align="center">No game dumps, extracted assets, saves, or full game data files are distributed here. A patch builder may require files from your own legal copy of the game.
 
 <p align="center">ModWorks is free to use. <a href="DONATE.md">Donations</a> help support development and testing.</p>
