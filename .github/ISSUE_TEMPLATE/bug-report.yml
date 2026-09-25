@@ -12,6 +12,7 @@ body:
       label: Game
       options:
         - Xenoblade Chronicles 2
+        - Hyrule Warriors: Definitive Edition
         - Another game
     validations:
       required: true
