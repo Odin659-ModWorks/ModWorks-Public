@@ -1,7 +1,7 @@
-# Individual mods
+# Individual mods for XC2 2.1.0
 
-This area will hold fixed, ready-made XC2 2.1.0 mods. Each release will identify its exact game and executable version, installation location, conflicts, and test status.
+Choose an emulator before installing a mod:
 
-Use these when you want a simple preset. For custom values or combinations, see the [mod manager](../manager/README.md).
+- [Eden individual mods](../eden/individual/README.md)
 
-No individual package has been published here yet.
+This page is an index for older links. Compatibility and downloads live on the emulator-specific page.
