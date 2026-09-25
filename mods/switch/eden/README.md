@@ -1,11 +1,14 @@
-# Eden mods for Nintendo Switch games
+<h1 align="center">Eden mods for Nintendo Switch</h1>
 
-Browse everything ModWorks has for the **Eden emulator**. Choose a game and then the game update you run.
+<p align="center">Choose a game, then the exact update you run.</p>
 
-| Game | Supported update | Individual mods | Custom manager |
-| --- | --- | --- | --- |
-| [Xenoblade Chronicles 2 (XC2)](../xenoblade-chronicles-2/README.md) | [2.1.0](../xenoblade-chronicles-2/2.1.0/eden/README.md) | [Fixed mods](../xenoblade-chronicles-2/2.1.0/eden/individual/README.md) | [Mod manager](../xenoblade-chronicles-2/2.1.0/eden/manager/README.md) |
+<h2 align="center"><a href="../xenoblade-chronicles-2/README.md">Xenoblade Chronicles 2 (XC2)</a></h2>
 
-No finished public XC2 package has been posted yet. The linked pages show the planned areas and will carry downloads as each mod is verified. Emulator and game update both matter for compatibility.
+<p align="center">Current target: <a href="../xenoblade-chronicles-2/2.1.0/eden/README.md">update 2.1.0</a></p>
+<p align="center"><a href="../xenoblade-chronicles-2/2.1.0/eden/individual/README.md">Individual mods</a> · <a href="../xenoblade-chronicles-2/2.1.0/eden/manager/README.md">Mod manager</a></p>
+<p align="center"><em>In development — no finished public package yet.</em></p>
+
+<p align="center">Each additional Eden game will get its own entry here. Each tested game update gets its own page.</p>
+<p align="center"><a href="https://github.com/Odin659-ModWorks/ModWorks-Public/issues/new?template=bug-report.yml">Report a bug</a> · <a href="https://github.com/Odin659-ModWorks/ModWorks-Public/issues/new?template=request.yml">Request a mod or game</a></p>
 
 Keywords: Eden emulator, Nintendo Switch emulator mods, Switch mods, Xenoblade Chronicles 2, XC2, game update 2.1.0.
