@@ -1,5 +1,7 @@
-# Mod manager
+# Mod manager for XC2 2.1.0
 
-The planned portable manager will let you select XC2 mod features, choose supported values or presets, and build compatible combinations. It will separate DLC-mounted changes from Eden add-ons, preserve unrelated installed mods, and warn about features that edit the same file or executable address.
+Choose an emulator-specific manager build:
 
-This is under development. A public download will appear here after packaging and verification. The manager's online catalog address will remain configurable.
+- [Eden mod manager](../eden/manager/README.md)
+
+This page is an index for older links. Release status and downloads live on the emulator-specific page.
