@@ -15,5 +15,3 @@
 
 <p align="center">Each additional Eden game will get its own entry here. Each tested game update gets its own page.</p>
 <p align="center"><a href="https://github.com/Odin659-ModWorks/ModWorks-Public/issues/new?template=bug-report.yml">Report a bug</a> · <a href="https://github.com/Odin659-ModWorks/ModWorks-Public/issues/new?template=request.yml">Request a mod or game</a></p>
-
-Keywords: Eden emulator, Nintendo Switch emulator mods, Switch mods, Hyrule Warriors Definitive Edition, Xenoblade Chronicles 2, XC2.
