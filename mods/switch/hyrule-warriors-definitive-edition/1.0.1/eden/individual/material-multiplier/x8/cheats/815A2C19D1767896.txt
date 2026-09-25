@@ -1,0 +1,3 @@
+[HWDE Material Multiplier x8]
+04000000 00034220 11002102
+
