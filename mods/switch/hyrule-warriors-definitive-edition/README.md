@@ -10,3 +10,8 @@
 The mods here target **Hyrule Warriors: Definitive Edition**, not *Age of Calamity*. Nintendo lists the Definitive Edition update as **1.0.1** ([official update history](https://www.nintendo.com/en-gb/Support/Nintendo-Switch/Game-Updates/How-to-Update-Hyrule-Warriors-Definitive-Edition-1482909.html)). Executable patches also require the exact build ID shown on each mod page. Do not use them with a different update merely because a file has a similar name.
 
 <p align="center"><a href="../eden/README.md">All Eden games</a> · <a href="https://github.com/Odin659-ModWorks/ModWorks-Public/issues/new?template=bug-report.yml">Report a bug</a></p>
+
+
+## Source and technical documentation
+
+The authored builders, research notes, and reproducible source for the public mod families are available in [source/](source/README.md). Original extracted game assets are not included.
