@@ -1,0 +1,6 @@
+Hyrule Warriors: Definitive Edition - PlayStation Button Prompts v1.0.0-rc3
+
+- Enlarged L1, R1, L2, and R2 lettering substantially.
+- Uses one consistent label size across shoulder and trigger silhouettes.
+- Reduced the dark and gray keycap rim thickness.
+- Retains the corrected vertical DualSense Create glyph from rc2.

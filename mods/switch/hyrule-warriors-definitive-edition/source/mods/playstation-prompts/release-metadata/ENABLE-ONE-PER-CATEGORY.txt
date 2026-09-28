@@ -1,0 +1,5 @@
+Enable only one multiplier rate within each category.
+
+EXP, Rupees, and Materials are separate categories and may use different rates.
+Enable only one Loot Quality option at a time.
+Do not enable an older combined Reward Multipliers add-on alongside the split versions.

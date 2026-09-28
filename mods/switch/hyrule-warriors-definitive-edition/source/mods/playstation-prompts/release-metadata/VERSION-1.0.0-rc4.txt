@@ -1,0 +1,9 @@
+Hyrule Warriors: Definitive Edition - PlayStation Button Prompts v1.0.0-rc4
+
+Title ID: 0100AE00096EA000
+Game update: 1.0.1
+
+Changes from rc3:
+- Enlarges L1, R1, L2, and R2 labels to approximately 1.5 times their rc3 apparent size.
+- Uses a condensed label face so both characters remain clear on the smallest 32-pixel prompt.
+- Retains the thinner keycap border and all prior glyph corrections.
