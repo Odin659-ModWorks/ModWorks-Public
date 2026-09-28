@@ -1,0 +1,13 @@
+Target: Hyrule Warriors Definitive Edition 1.0.1, BID 815A2C19D1767896
+
+FUN_7100368424 applies the selected mixture, starts its result animation, and
+sets the Apothecary result-pending flag. At 0x7100368630 it supplies a 60-frame
+duration to the result-effect routine. This patch changes that duration to 5.
+
+FUN_7100368758 updates the result flow. After the item rows settle, it waits at
+0x71003688ec for the main Apothecary layout animation before displaying result
+message 0x1ed. This patch replaces that completion query with `mov w0, #1`.
+
+Both replacement instructions were assembled and verified in Ghidra, then the
+original instructions were restored. Surrounding purchase, inventory, sound,
+and message logic is unchanged.

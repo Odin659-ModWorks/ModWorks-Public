@@ -1,0 +1,13 @@
+Target: Hyrule Warriors Definitive Edition 1.0.1, BID 815A2C19D1767896
+
+FUN_71003034b4 identifies the currently selected badge tile and invokes
+FUN_7100301954 after a badge is created. FUN_7100301954 starts the badge_make
+animation and the corresponding attack, defense, or support result effect.
+
+The five patched instructions load the animation playback rate for the creation
+and result effects. Each original instruction is `fmov s0, #1.0`; each patch is
+`fmov s0, #4.0`. This preserves the animations and surrounding state changes
+while reducing their duration to one quarter.
+
+The replacement instruction was assembled and verified in Ghidra as word
+0x1E221000. The original word 0x1E2E1000 was restored after verification.
