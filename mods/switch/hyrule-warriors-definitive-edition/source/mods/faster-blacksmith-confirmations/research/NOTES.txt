@@ -1,0 +1,9 @@
+Target: Hyrule Warriors Definitive Edition 1.0.1, BID 815A2C19D1767896
+
+FUN_710036ee30 updates the blacksmith top-level result flow.
+When the completion flag at object +0x41364 is set, it waits for three subordinate states
+and two result-animation collections before clearing that flag and presenting message 0x1ee.
+
+The two calls at 0x710036efbc and 0x710036efcc query whether those animation collections
+have completed. This patch replaces only those calls with `mov w0, #1`. It preserves all
+subordinate-state checks, the result message, game-state changes, sounds, and other UI flows.

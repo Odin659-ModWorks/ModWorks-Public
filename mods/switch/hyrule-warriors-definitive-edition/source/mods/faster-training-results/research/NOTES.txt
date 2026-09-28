@@ -1,0 +1,9 @@
+Target: Hyrule Warriors Definitive Edition 1.0.1, BID 815A2C19D1767896
+
+FUN_7100361608 controls the Training Dojo's repeated per-level result sequence.
+At 0x7100361798 it loads 30 into the state countdown stored at object +0x0c.
+The original instruction is `orr w8, wzr, #0x1e` (word 0x321F0FE8).
+
+The patch replaces that load with `mov w8, #5` (word 0x528000A8), reducing the
+countdown from 30 frames to 5 while preserving the surrounding state transition,
+level application, result message, animation setup, and sound calls.
