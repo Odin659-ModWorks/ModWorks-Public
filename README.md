@@ -3,7 +3,7 @@
 <p align="center">Modding for science!</p>
 
 
-<h2 align="center">Browse avalible mods</h2>
+<h2 align="center">Browse available mods</h2>
 <p align="center">Game mods and tools, organized by platform → emulator → game → update.</p>
 
 <details open>
@@ -19,7 +19,7 @@
 <h2 align="center">Games for Eden</h2>
 
 <p align="center"><a href="mods/switch/hyrule-warriors-definitive-edition/README.md"><strong>Hyrule Warriors: Definitive Edition</strong></a> · <a href="mods/switch/hyrule-warriors-definitive-edition/1.0.1/eden/individual/README.md">1.0.1 individual mods</a></p>
-<p align="center"><a href="mods/switch/xenoblade-chronicles-2/README.md"><strong>Xenoblade Chronicles 2</strong></a> · <a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/README.md">2.1.0 in development</a></p>
+<p align="center"><a href="mods/switch/xenoblade-chronicles-2/README.md"><strong>Xenoblade Chronicles 2</strong></a> · <a href="mods/switch/xenoblade-chronicles-2/2.1.0/eden/individual/README.md">2.1.0 individual mods</a></p>
 
 <h2 align="center">Feedback and requests</h2>
 
