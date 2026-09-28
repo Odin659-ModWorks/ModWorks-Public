@@ -1,0 +1,12 @@
+Target: Hyrule Warriors Definitive Edition 1.0.1, BID 815A2C19D1767896
+
+FUN_71001d982c is the enemy-death handler.
+FUN_71001d8bf0 constructs the valid drop record at 0x71001d9a90.
+FUN_71001d9f54 materializes the drop record and consumes it.
+
+The hook replaces the instruction at 0x71001d9a94 with a branch to 0x71003fa304.
+The helper calls FUN_71001d9f54(enemy_index, 0, 1, NULL), replays the displaced
+mov/call sequence, and returns to 0x71001d9a9c. Normal death animation and cleanup continue.
+
+The helper occupies a 48-byte function with no analyzed references and no absolute or
+relative pointer occurrence in the source NSO. The final four bytes of that function are untouched.
